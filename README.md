@@ -8,3 +8,10 @@ Task third lab:
 
 Task fourth lab:
 ![lab4](https://github.com/1Bitcoin/ASM/blob/master/lab4/lab4.jpg)
+
+
+----
+
+Task fifth lab:
+![lab5](https://github.com/1Bitcoin/ASM/blob/master/lab5/lab5.jpg)
+
