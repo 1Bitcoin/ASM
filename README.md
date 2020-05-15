@@ -25,11 +25,11 @@ Task of sixth lab:
 ----
 
 Task of the seventh lab:
-![lab7](https://github.com/1Bitcoin/ASM/blob/master/lab7/7.jpg)
+![lab7](https://github.com/1Bitcoin/ASM/blob/master/lab7/7.png)
 
 
 ----
 
 Task of the eighth lab:
-![lab8](https://github.com/1Bitcoin/ASM/blob/master/lab8/8.jpg)
+![lab8](https://github.com/1Bitcoin/ASM/blob/master/lab8/8.png)
 
