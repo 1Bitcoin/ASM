@@ -1,22 +1,35 @@
 # ASM
 
-Task third lab:
+Task of third lab:
 ![lab3](https://github.com/1Bitcoin/ASM/blob/master/lab3/lab3.jpg)
 
 
 ----
 
-Task fourth lab:
+Task of fourth lab:
 ![lab4](https://github.com/1Bitcoin/ASM/blob/master/lab4/lab4.jpg)
 
 
 ----
 
-Task fifth lab:
+Task of fifth lab:
 ![lab5](https://github.com/1Bitcoin/ASM/blob/master/lab5/lab5.jpg)
 
 
 ----
 
-Task sixth lab:
+Task of sixth lab:
 Резидентные программы. Программа заменяет a, A на s, S и наоборот.
+
+
+----
+
+Task of the seventh lab:
+![lab7](https://github.com/1Bitcoin/ASM/blob/master/lab7/7.png)
+
+
+----
+
+Task of the eighth lab:
+![lab8](https://github.com/1Bitcoin/ASM/blob/master/lab8/8.png)
+
