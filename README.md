@@ -33,3 +33,10 @@ Task of the seventh lab:
 Task of the eighth lab:
 ![lab8](https://github.com/1Bitcoin/ASM/blob/master/lab8/8.png)
 
+
+----
+
+Task of the ninth lab:
+![lab9](https://github.com/1Bitcoin/ASM/blob/master/lab9/lab9.jpg)
+
+
