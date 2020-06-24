@@ -19,6 +19,7 @@ Task of fifth lab:
 ----
 
 Task of sixth lab:
+
 Резидентные программы. Программа заменяет a, A на s, S и наоборот.
 
 
